@@ -1,23 +1,22 @@
-# 🏨 AplicacionHotelParte2
+# AplicacionHotelParte2
 
 Aplicación de escritorio para la gestión de un hotel, desarrollada en **Java** con **JavaFX** y construida con **Maven**. Es la segunda parte del proyecto de la aplicación de hotel.
 
-## 📋 Descripción
+## Descripción
 
-HotelApp es una aplicación con interfaz gráfica que permite gestionar las operaciones básicas de un hotel (habitaciones, clientes y reservas).
+HotelApp es una aplicación con interfaz gráfica que permite gestionar las operaciones básicas de un hotel (habitaciones, clientes y reservas). Tras la parte 1 hemos implementado un apartado para ver los ingresos generados entre días.
 
-> ✏️ **Completa esta sección** con una descripción más precisa de lo que hace tu aplicación y qué se añade respecto a la Parte 1.
 
-## ✨ Funcionalidades
+##  Funcionalidades
 
 - Gestión de habitaciones
 - Gestión de clientes
 - Gestión de reservas
 - Interfaz gráfica con JavaFX (FXML)
 
-> ✏️ Ajusta esta lista a las funcionalidades reales que has implementado.
 
-## 🛠️ Tecnologías
+
+##  Tecnologías
 
 | Tecnología | Versión |
 |---|---|
@@ -26,7 +25,7 @@ HotelApp es una aplicación con interfaz gráfica que permite gestionar las oper
 | Maven | 3.8+ |
 | javafx-maven-plugin | 0.0.8 |
 
-## 📁 Estructura del proyecto
+##  Estructura del proyecto
 
 ```
 AplicacionHotelParte2/
@@ -37,7 +36,7 @@ AplicacionHotelParte2/
 └── README.md
 ```
 
-## ✅ Requisitos previos
+##  Requisitos previos
 
 - [JDK 21](https://adoptium.net/) o superior
 - [Apache Maven](https://maven.apache.org/download.cgi) 3.8 o superior
@@ -49,7 +48,7 @@ java -version
 mvn -version
 ```
 
-## 🚀 Instalación y ejecución
+## Instalación y ejecución
 
 1. Clona el repositorio:
 
@@ -74,18 +73,8 @@ mvn -version
 
 Importa el proyecto como proyecto Maven en IntelliJ IDEA, Eclipse o NetBeans y ejecuta la clase `Main`.
 
-## 🖥️ Uso
+## Uso
 
 1. Inicia la aplicación.
 2. Navega por los menús de la interfaz para gestionar habitaciones, clientes y reservas.
 
-> ✏️ Añade aquí capturas de pantalla si quieres:
-> `![Pantalla principal](docs/captura.png)`
-
-## 👤 Autor
-
-- **znx88** — [github.com/znx88](https://github.com/znx88)
-
-## 📄 Licencia
-
-Proyecto con fines educativos. Añade aquí la licencia que prefieras (por ejemplo, MIT).
